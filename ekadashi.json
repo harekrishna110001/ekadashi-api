@@ -4,7 +4,7 @@
     "dateon": "2026-01-29",
 
     "countdown": {
-      "enabled": true,
+      "enabled": false,
       "template": "{n} दिन शेष हैं"
     },
 
